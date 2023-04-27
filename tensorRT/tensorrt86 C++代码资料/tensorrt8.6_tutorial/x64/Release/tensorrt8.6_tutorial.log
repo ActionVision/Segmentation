@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\tensorrt-8.6.0.12\include\nvinfer.h(6124): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  tensorrt8.6_tutorial.vcxproj -> D:\vcworkspaces\tensorrt86_tutorial\x64\Release\tensorrt8.6_tutorial.exe

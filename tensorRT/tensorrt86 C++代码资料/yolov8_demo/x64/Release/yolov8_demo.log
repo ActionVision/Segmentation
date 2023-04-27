@@ -1,0 +1,16 @@
+﻿  yolov8_trt_demo.cpp
+d:\tensorrt-8.6.0.12\include\nvinfer.h(6124): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vcworkspaces\tensorrt86_tutorial\yolov8_demo\yolov8_trt_demo.cpp(27): warning C4154: 删除数组表达式；转换到提供的指针
+d:\vcworkspaces\tensorrt86_tutorial\yolov8_demo\yolov8_trt_demo.cpp(37): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\vcworkspaces\tensorrt86_tutorial\yolov8_demo\yolov8_trt_demo.cpp(133): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\vcworkspaces\tensorrt86_tutorial\yolov8_demo\yolov8_trt_demo.cpp(139): warning C4305: “参数”: 从“double”到“const float”截断
+  正在生成代码
+  1 of 601 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  yolov8_demo.vcxproj -> D:\vcworkspaces\tensorrt86_tutorial\x64\Release\yolov8_demo.exe

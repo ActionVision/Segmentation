@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\tensorrt-8.6.0.12\include\nvinfer.h(6124): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vcworkspaces\tensorrt86_tutorial\resnet18_demo\main.cpp(52): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  正在生成代码
+  All 358 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  resnet18_demo.vcxproj -> D:\vcworkspaces\tensorrt86_tutorial\x64\Release\resnet18_demo.exe
